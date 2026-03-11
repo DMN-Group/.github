@@ -1,6 +1,4 @@
-![DMN Group](https://www.dmngroup.co.uk/wp-content/uploads/2024/11/DMNGroupLogo.svg)
-
-# DMN Group
+<img src="https://www.dmngroup.co.uk/wp-content/uploads/2024/11/DMNGroupLogo.svg" alt="DMN Group" width="300"/>
 
 **One of the largest vehicle logistics groups in the UK**
 Driven by technology. Delivered with precision.
